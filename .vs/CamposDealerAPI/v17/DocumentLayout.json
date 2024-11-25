@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Testes\\CamposDealerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAEA70A-4B03-4D71-B041-7829E25BC16C}|CamposDealerAPI\\CamposDealerAPI.csproj|c:\\projetos\\testes\\camposdealerapi\\camposdealerapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAEA70A-4B03-4D71-B041-7829E25BC16C}|CamposDealerAPI\\CamposDealerAPI.csproj|solutionrelative:camposdealerapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDAEA70A-4B03-4D71-B041-7829E25BC16C}|CamposDealerAPI\\CamposDealerAPI.csproj|c:\\projetos\\testes\\camposdealerapi\\camposdealerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDAEA70A-4B03-4D71-B041-7829E25BC16C}|CamposDealerAPI\\CamposDealerAPI.csproj|solutionrelative:camposdealerapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\CamposDealerAPI\\CamposDealerAPI\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CamposDealerAPI\\Database\\AppDbContext.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\CamposDealerAPI\\CamposDealerAPI\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "CamposDealerAPI\\Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:13:35.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Projetos\\Testes\\CamposDealerAPI\\CamposDealerAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "CamposDealerAPI\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Projetos\\Testes\\CamposDealerAPI\\CamposDealerAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "CamposDealerAPI\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:13:33.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
